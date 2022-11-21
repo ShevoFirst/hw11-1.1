@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) {//¯\_( ͡❛ ͜ʖ ͡❛)_/¯
         Author authorNikolaev = new Author("Виктор","Николаев");
         Author authorPelevin = new Author("Виктор","Пелевин");
         Book book1 = new Book("Generation 'П'",1999,authorPelevin);
